@@ -1,0 +1,13 @@
+eclipse.preferences.version=1
+encoding//src/main/java/controller/BillServlet.java=UTF-8
+encoding//src/main/java/controller/CategoryServlet.java=UTF-8
+encoding//src/main/java/controller/GuestServlet.java=UTF-8
+encoding//src/main/java/controller/LoginServlet.java=UTF-8
+encoding//src/main/java/controller/ProductServlet.java=UTF-8
+encoding//src/main/java/controller/UserServlet.java=UTF-8
+encoding//src/main/java/entities/Order.java=UTF-8
+encoding//src/main/java/entities/Product.java=UTF-8
+encoding//src/main/java/utils/excelUtil.java=UTF-8
+encoding//src/main/java/utils/hibernateUtil.java=UTF-8
+encoding//src/main/java/utils/readExcel.java=UTF-8
+encoding//src/test/java/test/TC1.java=UTF-8
